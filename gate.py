@@ -153,7 +153,7 @@ elif (gate=="NAND" or gate=="nand" or gate=="Nand"):
 	print("")
 
 elif (gate=="NOR" or gate=="nor" or gate=="Nor"):
-	formula="X = A + B "
+	formula="X = A + B  (Inverted)"
 	calculation_counter=0
 	print("")
 	print("Gate 		: ",gate.upper())
@@ -203,7 +203,7 @@ elif (gate=="XOR" or gate=="xor" or gate=="Xor"):
 
 
 elif (gate=="XNOR" or gate=="xnor" or gate=="Xnor"):
-	formula="X = A + B (Inverted Exclusive"
+	formula="X = A + B (Inverted Exclusive)"
 	calculation_counter=0
 	print("")
 	print("Gate 		: ",gate.upper())
