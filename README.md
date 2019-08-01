@@ -16,7 +16,7 @@ Usage :
 1) git clone https://github.com/mohinparamasivam/logic-gate.git
 2) cd logic-gate
 3) chmod +x gate.py
-4) ./gate.py ( ONLY APPLICABLE FOR LINUX SYSTEM)
+4) ./gate.py ( <b>ONLY APPLICABLE FOR LINUX SYSTEMS</b>)
 
 
 
